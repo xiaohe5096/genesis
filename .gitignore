@@ -13,3 +13,5 @@ build/
 */build/
 */.idea/
 .idea/
+#忽略当前的文件
+genesis-microservices/genesis-microservices-config/src/main/resources/application.properties
