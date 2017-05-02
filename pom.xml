@@ -97,6 +97,12 @@
 
     <!--nexus 仓库 -->
     <repositories>
+		<repository>
+			<id>aliyun</id>
+			<name>Public Repository</name>
+			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
+		</repository>
+		
     	<!--
         <repository>
             <id>nexus</id>
