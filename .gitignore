@@ -3,7 +3,13 @@
 *.project
 *.factorypath
 *.apk
+*.log
 bin/
 gen/
 .settings/
 target/
+.gradle/
+build/
+*/build/
+*/.idea/
+.idea/
